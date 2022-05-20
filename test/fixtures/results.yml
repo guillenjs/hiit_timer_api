@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  calories_burned: 1
+  zones_avg: 
+  heart_rate: 
+  workout: one
+
+two:
+  calories_burned: 1
+  zones_avg: 
+  heart_rate: 
+  workout: two
